@@ -7,12 +7,11 @@ const Header = ()=>{
     return(
         <div>
             <ul>
-                <li>Gatos</li>
-                <li>Gifs</li>
-                <li>Faça um gato falar</li>
-                <li>Gato por lebre</li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
             </ul>
-            
         </div>
     )
 }

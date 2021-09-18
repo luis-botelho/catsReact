@@ -1,9 +1,12 @@
-import Header from '../src/components/Shared/Header'
+import Header from './components/Shared/Header'
 import './App.css';
-
+import Home from './Pages/Home'
 function App() {
   return (
-    <Header />
+    <div>
+      <Header />
+      <Home />
+    </div>
   )
 }
 
